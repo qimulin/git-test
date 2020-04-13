@@ -6,6 +6,6 @@ package chou.may.gittest.tag;
  */
 public class TagTest {
     public static void main(String[] args) {
-        System.out.println("0.0.2");
+        System.out.println("0.0.3");
     }
 }
