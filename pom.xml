@@ -10,7 +10,7 @@
     </parent>
     <groupId>chou.may</groupId>
     <artifactId>git-test</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>git-test</name>
     <description>git相关操作演练</description>
 
